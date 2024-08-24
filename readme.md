@@ -1,3 +1,3 @@
 Repository with my kodi addons
 
-[cocoscrapper](https://joaoalvess.github.io/kodi/)
+[cocoscrapper](https://joaoalvess.github.io/kodi/cocoscrapers.zip)
